@@ -1,0 +1,20 @@
+tabla contenido
+
+Introducción
+
+Justificación del Proyecto
+
+Definición del Problema
+
+Contexto actual.
+
+Objetivos (General y Específico)
+
+Diagramas de Modelado
+
+variable de entrada y salida
+
+reglas y condiciones
+
+Conclusión
+
